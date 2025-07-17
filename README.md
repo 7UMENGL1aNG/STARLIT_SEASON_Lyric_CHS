@@ -1,4 +1,8 @@
-安装步骤：置于StarlitSeason\StarlitSeason\Content\Paks
+使用和安装步骤：
+
+下载本库中的~Mods文件夹
+
+置于StarlitSeason\StarlitSeason\Content\Paks
 
 确保~mods文件夹和pakchunk0-WindowsNoEditor.pak等文件处于同级目录。
 
