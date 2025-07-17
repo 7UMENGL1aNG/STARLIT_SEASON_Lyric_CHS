@@ -1,4 +1,11 @@
-如果发现有错误，请写ISSUE。
+安装步骤：置于StarlitSeason\StarlitSeason\Content\Paks
+
+确保~mods文件夹和pakchunk0-WindowsNoEditor.pak等文件处于同级目录。
+
+---
+
+
+如果发现内容有错误，请写ISSUE。
 
 By 涂梦良丶
 
