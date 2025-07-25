@@ -14,3 +14,6 @@
 By 涂梦良丶
 
 本MOD及其内容遵循**CC-BY-NC-SA**协议，若有需要请联系我授权。
+
+---
+本MOD支持[十三人大舞台](https://gamebanana.com/mods/365140)
