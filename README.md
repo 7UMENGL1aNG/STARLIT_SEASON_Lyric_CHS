@@ -1,4 +1,5 @@
 本mod的相关翻译（SESSION!），可参考视频:
+
 [【星耀季节】【SESSION!】与纯洁无瑕的你交织羁绊同行之世](https://www.bilibili.com/video/BV1fBbXzMEG3)
 
 ---
